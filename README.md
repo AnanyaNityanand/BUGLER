@@ -40,5 +40,5 @@ Ensure you have the following installed:
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/bugler-learning-platform.git](https://github.com/YOUR_USERNAME/bugler-learning-platform.git)
+git clone [https://github.com/Ananya N nityanand/bugler-learning-platform.git](https://github.com/YOUR_USERNAME/bugler-learning-platform.git)
 cd bugler-learning-platform
